@@ -1,4 +1,4 @@
-# 🧮Calculator
+# 🧮 Calculator
 
 A beautiful **iOS-inspired Glassmorphism Calculator** built with **HTML, CSS, and JavaScript**. Designed with smooth animations, modern UI effects, and a responsive layout for both desktop and mobile devices.
 
@@ -56,11 +56,15 @@ git clone https://github.com/Lunaaaaaaaaaaaaaaaa/Calculator.git
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://lunaaaaaaaaaaaaaaaa.github.io/Calculator/
+
+---
+
 ## 📸 Preview
 
 <img width="377" height="578" alt="image" src="https://github.com/user-attachments/assets/af66b06d-c3e8-4db9-8910-e01d25d8c672" />
-
-
 
 ---
 
@@ -94,9 +98,11 @@ If you like this project, consider giving it a **star ⭐** on GitHub.
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-Created by vibe coding!
+
+**Note:** This project was created purely for fun and experimentation and was **100% vibe coded**. ✨
+
 ---
 
 <p align="center">
-  Made with ❤️ and ☕ using HTML, CSS & JavaScript
+  Made with ❤️, ☕ and a lot of ✨ vibe coding ✨ using HTML, CSS & JavaScript
 </p>
