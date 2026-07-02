@@ -1,9 +1,24 @@
-# 🧮 Calculator
+# 🧮Calculator
 
-A beautiful **iOS-inspired Glassmorphism Calculator** built with **HTML, CSS, and JavaScript**. Designed with smooth animations, modern UI effects, and a responsive layout for both desktop and mobile devices.
+A beautiful, **iOS-inspired Glassmorphism Calculator** built with **HTML, CSS, and JavaScript**. It features smooth animations, a modern frosted-glass interface, and a fully responsive design that works seamlessly on both desktop and mobile devices. ✨
 
 ---
 
+## 🌐 Live Demo
+
+🧮 Try it here: **https://lunaaaaaaaaaaaaaaaa.github.io/Calculator/**
+
+---
+## 📸 Preview
+
+
+
+<img width="377" height="578" alt="Calculator Preview" src="https://github.com/user-attachments/assets/af66b06d-c3e8-4db9-8910-e01d25d8c672" />
+
+
+
+
+---
 ## ✨ Features
 
 * 🎨 Modern Glassmorphism UI
@@ -22,51 +37,28 @@ A beautiful **iOS-inspired Glassmorphism Calculator** built with **HTML, CSS, an
 
 * 🌐 HTML5
 * 🎨 CSS3
-* ⚙️ JavaScript (Vanilla)
+* ⚙️ Vanilla JavaScript
 
 ---
 
-## 📂 Project Structure
+## 🚀 Run It
 
-```text
-calculator/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── assets/
-├── icons/
-└── sounds/
-```
+Simply open `index.html` directly in your browser, or serve the folder with any simple static server. **No build step is required!** 🎉
 
 ---
 
-## 🚀 Getting Started
+## 📁 Files
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Lunaaaaaaaaaaaaaaaa/Calculator.git
-```
-
-2. Open the project folder.
-
-3. Run `index.html` in your browser.
+* 📄 `index.html` — Calculator structure and display
+* 🎨 `style.css` — Glassmorphism design, layout, and animations
+* ⚙️ `script.js` — Calculator logic, keyboard support, and interactions
+* 🖼️ `assets/` — Images and additional resources
+* 🎭 `icons/` — Application icons
+* 🔊 `sounds/` — Optional button click sounds
 
 ---
 
-## 🌐 Live Demo
 
-🔗 https://lunaaaaaaaaaaaaaaaa.github.io/Calculator/
-
----
-
-## 📸 Preview
-
-<img width="377" height="578" alt="image" src="https://github.com/user-attachments/assets/af66b06d-c3e8-4db9-8910-e01d25d8c672" />
-
----
 
 ## 🎯 Future Improvements
 
@@ -95,14 +87,6 @@ If you like this project, consider giving it a **star ⭐** on GitHub.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-**Note:** This project was created purely for fun and experimentation and was **100% vibe coded**. ✨
-
----
-
 <p align="center">
-  Made with ❤️, ☕ and a lot of ✨ vibe coding ✨ using HTML, CSS & JavaScript
+Made with ❤️, ☕ and a lot of ✨ vibe coding ✨ using HTML, CSS & JavaScript
 </p>
